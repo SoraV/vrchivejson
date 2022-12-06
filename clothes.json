@@ -429,7 +429,7 @@
         "avatar": "-Maya-",
         "avatarlink": "",
         "source": "https://childfactory.booth.pm/",
-        "download":"https://anonfiles.com/d8QbNf9ay2/childfactory_Maya_Maya_TechParka_V1.0_3207103_zip"
+        "download": "https://anonfiles.com/d8QbNf9ay2/childfactory_Maya_Maya_TechParka_V1.0_3207103_zip"
     },
     {
         "name": "Mercury",
@@ -437,7 +437,7 @@
         "avatar": "-Kikyo-",
         "avatarlink": "",
         "source": "https://booth.pm/en/items/3790116",
-        "download":"https://drive.google.com/file/d/1XhO7O1n3UeY9jY27WFuFLUCdhl3U0VxJ/view?usp=share_link"
+        "download": "https://drive.google.com/file/d/1XhO7O1n3UeY9jY27WFuFLUCdhl3U0VxJ/view?usp=share_link"
     },
     {
         "name": "R-18 Texture",
@@ -445,7 +445,7 @@
         "avatar": "-Selestia-",
         "avatarlink": "",
         "source": "",
-        "download":"https://mega.nz/file/JoURUJjC#RuI3mJnHBvTwKYaDKnhaEnTAn4hDSEX9eW84fUOiZKs"
+        "download": "https://mega.nz/file/JoURUJjC#RuI3mJnHBvTwKYaDKnhaEnTAn4hDSEX9eW84fUOiZKs"
     },
     {
         "name": "Yogawear",
@@ -453,7 +453,7 @@
         "avatar": "-Selestia-",
         "avatarlink": "",
         "source": "",
-        "download":"https://drive.google.com/file/d/1yP8FxCvk44p05b3Nj13SUnmE8SmILsx4/view?usp=share_link"
+        "download": "https://drive.google.com/file/d/1yP8FxCvk44p05b3Nj13SUnmE8SmILsx4/view?usp=share_link"
     },
     {
         "name": "It's cold",
@@ -461,7 +461,7 @@
         "avatar": "-Kikyo-",
         "avatarlink": "",
         "source": "https://muumuum.booth.pm/items/4342960",
-        "download":"https://anonfiles.com/P0v428K7yc/MUU_Cute_set_Kikyo_unitypackage"
+        "download": "https://anonfiles.com/P0v428K7yc/MUU_Cute_set_Kikyo_unitypackage"
     },
     {
         "name": "C-S-H-A",
@@ -469,6 +469,30 @@
         "avatar": "-Selestia-",
         "avatarlink": "",
         "source": "https://booth.pm/ja/items/4110490",
-        "download":"https://drive.google.com/file/d/1u2FsKKBXp966ZAt3L8T347r3hFp0Ucsg/view?usp=share_link"
+        "download": "https://drive.google.com/file/d/1u2FsKKBXp966ZAt3L8T347r3hFp0Ucsg/view?usp=share_link"
+    },
+    {
+        "name": "Gothic Casual",
+        "img": "https://s2.booth.pm/57a051cf-430c-4cc0-8a88-8fd753723078/i/3729902/7fbe3072-8578-4cd6-9637-d3422bc6aba0_base_resized.jpg",
+        "avatar": "-Karin-",
+        "avatarlink": "",
+        "source": "https://kainrypus.booth.pm/items/3729902",
+        "download": "https://drive.google.com/file/d/1m-W1f3O6r8q4PkLIVwdzx7W1oA_J-Kf2/view?usp=share_link"
+    },
+    {
+        "name": "Polaris",
+        "img": "https://s2.booth.pm/810c165f-1f28-4ac6-a6a7-41c5e1280a72/i/4237448/4d07dac5-fc89-40ba-be24-4ea41bb8396a_base_resized.jpg",
+        "avatar": "-Kikyo-",
+        "avatarlink": "",
+        "source": "https://suiyob.booth.pm/items/4237448",
+        "download": "https://drive.google.com/file/d/1mOrqg6Nwls_vDO5hnXXLRI54_3aJZyw-/view?usp=share_link"
+    },
+    {
+        "name": "Hard Alpha",
+        "img": "https://booth.pximg.net/480ebd53-4a11-4698-ac85-b68049818e2c/i/4071963/0d6a09fb-b660-46f2-8893-3560c7267f8f_base_resized.jpg",
+        "avatar": "-Uyoo-",
+        "avatarlink": "",
+        "source": "https://booth.pm/en/items/4071963",
+        "download": "https://drive.google.com/file/d/1Q_-6j5W7TeCVHS97s_ywk5xPbK9PomNZ/view?usp=share_link"
     }
 ]
