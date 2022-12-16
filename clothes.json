@@ -444,7 +444,7 @@
         "img": "https://cdn.discordapp.com/attachments/558991753345236992/1046695481276903444/1b3af9df-dcb7-43e0-8dbf-a63d9db09d39_base_resized.png",
         "avatar": "-Selestia-",
         "avatarlink": "",
-        "source": "https://no39.booth.pm/items/4341376",
+        "source": "",
         "download": "https://mega.nz/file/JoURUJjC#RuI3mJnHBvTwKYaDKnhaEnTAn4hDSEX9eW84fUOiZKs"
     },
     {
@@ -566,5 +566,29 @@
         "avatarlink": "",
         "source": "https://yoyogi-mori.booth.pm/items/2290857",
         "download": "https://drive.google.com/file/d/1OdahbAvvKrgTLE2oxYvDODPgRP7TD_13/view?usp=sharing"
+    },
+    {
+        "name": "Sound Cat Bell",
+        "img": "https://s2.booth.pm/1d864a4b-95fd-4d4e-a90e-83f81e5e7835/i/3217412/131e50a1-9587-42cb-9d05-f7014b432565_base_resized.jpg",
+        "avatar": "-Any-",
+        "avatarlink": "",
+        "source": "https://curiss.booth.pm/items/3217412",
+        "download": "https://drive.google.com/file/d/1-r7V_Ta5MexBsZwWuKTzkFa5eHurkmv0/view?usp=share_link"
+    },
+    {
+        "name": "Party Dress",
+        "img": "https://booth.pximg.net/17e0846b-bc83-4a5a-86b5-4defb38c8278/i/4170651/3b3c22e3-0db9-4410-96cb-079a7be6fbbf_base_resized.jpg",
+        "avatar": "-Selestia-",
+        "avatarlink": "",
+        "source": "https://booth.pm/ko/items/4170651",
+        "download": "https://drive.google.com/file/d/1XcSQyHb_kisAnX3i-Jg1DNHH8lgcmIoq/view?usp=sharing"
+    },
+    {
+        "name": "Straight Hair",
+        "img": "https://s2.booth.pm/343455c8-13fa-4871-aa62-61ca786c23f1/i/4072923/9272274d-c43b-494f-bf6e-e239acab05a0_base_resized.jpg",
+        "avatar": "-Maya-Kikyo-Selestia-",
+        "avatarlink": "",
+        "source": "https://angka.booth.pm/items/4072923",
+        "download": "https://drive.google.com/file/d/1ae8TIQZZ3wFktvWq3wXO-rbs49_YyUoP/view?usp=share_link"
     }
 ]
