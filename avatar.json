@@ -3,7 +3,7 @@
         "name": "Maya",
         "img": "https://s2.booth.pm/f420c992-4225-4ce0-b751-3a4acdceaab6/i/3390957/452e082f-67e8-480d-b697-9378977f41b0_base_resized.jpg",
         "source": "https://booth.pm/ko/items/3390957",
-        "download": "https://anonfiles.com/TbPfc049y1/maya_ver1_02_1_zip"
+        "download": "https://cdn.discordapp.com/attachments/988761600779485234/1053905375897858119/Maya_Ver1.02.2.zip"
     },
     {
         "name": "Digi-El",
@@ -1804,5 +1804,17 @@
         "img": "https://s2.booth.pm/415d7724-eb72-4f39-900a-fce08a16d737/i/3858513/86edc9f0-8d97-4b09-9761-62a7ab6d0c2b_base_resized.jpg",
         "source": "https://steramoca.booth.pm/items/3858513",
         "download": "https://drive.google.com/file/d/1In4_Sb_EGYninjbe9lOHxn-sMU9W_MjR/view?usp=share_link"
+    },
+    {
+        "name": "Amanatsu",
+        "img": "https://media.discordapp.net/attachments/1047444378395885588/1053864889745149953/EhDt9mlUMAAVNl1.png",
+        "source": "https://komado.booth.pm/",
+        "download": ""
+    },
+    {
+        "name": "",
+        "img": "",
+        "source": "",
+        "download": ""
     }
 ]
